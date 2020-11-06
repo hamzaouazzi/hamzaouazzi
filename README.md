@@ -16,7 +16,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <a href="https://github.com/hamzaouazzi">
@@ -25,9 +26,7 @@
 <a href="https://github.com/hamzaouazzi">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaouazzi&show_icons=true&theme=light&line_height=27" alt="Hamza Ouazzi's github stats"/>
 </a>
-<a href="https://github.com/hamzaouazzi/AppScalr-FrontEnd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzaouazzi&repo=AppScalr-FrontEnd&theme=light" />
-</a>
+
 
 <div align="center">
 
