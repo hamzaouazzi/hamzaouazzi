@@ -11,7 +11,7 @@
 ![Whatsapp](https://img.shields.io/badge/-+212648125056-25D366?&style=flat-square&logo=whatsapp&logoColor=white)
 
 **Languages and Tools:**  
-
+<!--
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
@@ -21,6 +21,7 @@
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>    
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
+--!>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
@@ -32,16 +33,20 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![Spring](https://img.shields.io/badge/-spring-green?style=flat-square&logo=spring)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Android](https://img.shields.io/badge/-Android-00599C?style=flat-square&logo=android)
 ![Dart](https://img.shields.io/badge/-dart-blue?style=flat-square&logo=dart)
 ![Flutter](https://img.shields.io/badge/-flutter-blue?style=flat-square&logo=flutter)
-![SASS](https://img.shields.io/badge/-SASS-1572B6?style=flat-square&logo=sass)
+![SASS](https://img.shields.io/badge/-SASS-1572B6?style=flat-square&logo=sass&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Sqlite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Scrum](https://img.shields.io/badge/-Scrum-00599C?style=flat-square&logo=scrum)
+![GoogleCloud](https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=flat-square)
+
 
 
 
