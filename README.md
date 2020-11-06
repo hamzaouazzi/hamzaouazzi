@@ -25,12 +25,14 @@
 <a href="https://github.com/hamzaouazzi">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaouazzi&show_icons=true&theme=light&line_height=27" alt="Hamza Ouazzi's github stats"/>
 </a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
+<a href="https://github.com/hamzaouazzi/AppScalr-FrontEnd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hamzaouazzi&repo=AppScalr-FrontEnd&theme=light" />
+</a>
 
-</a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
-</a>
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 
