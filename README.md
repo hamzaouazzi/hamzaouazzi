@@ -10,8 +10,10 @@
 ![Gmail:hamzaouazzi97@gmail.com](https://img.shields.io/badge/-hamzaouazzi97@gmail.com-D14836?&style=flat-square&logo=gmail&logoColor=white)
 ![Whatsapp](https://img.shields.io/badge/-+212648125056-25D366?&style=flat-square&logo=whatsapp&logoColor=white)
 
-**Languages and Tools:**  
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+**Languages and Tools:**  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
