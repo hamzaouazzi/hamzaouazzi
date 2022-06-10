@@ -1,5 +1,5 @@
-### Hi, I'm Hamza Ouazzi ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-
+<!-- ### Hi, I'm Hamza Ouazzi ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> -->
+### Hi, I'm Hamza Ouazzi !
 
 
 - 🔭 Software Engineer
